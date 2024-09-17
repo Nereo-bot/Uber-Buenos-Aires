@@ -19,4 +19,4 @@
             </li>
         </ul>
     </nav>
-</header><?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/layouts/navigation.blade.php ENDPATH**/ ?>
+</header><?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/layouts/navigation.blade.php ENDPATH**/ ?>
