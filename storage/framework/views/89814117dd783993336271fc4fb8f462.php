@@ -170,4 +170,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/welcome.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/welcome.blade.php ENDPATH**/ ?>
