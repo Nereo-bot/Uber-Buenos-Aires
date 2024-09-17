@@ -29,4 +29,4 @@ foreach ($attributes->all() as $__key => $__value) {
 unset($__defined_vars); ?>
 
 <input <?php echo e($disabled ? 'disabled' : ''); ?> <?php echo $attributes->merge(['class' => 'border-gray-300 focus:border-indigo-500 focus:ring-indigo-500 rounded-md shadow-sm']); ?>>
-<?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/components/text-input.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/components/text-input.blade.php ENDPATH**/ ?>
