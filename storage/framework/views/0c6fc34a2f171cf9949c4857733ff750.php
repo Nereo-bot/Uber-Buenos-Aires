@@ -32,4 +32,4 @@ unset($__defined_vars); ?>
     <?php echo e($value ?? $slot); ?>
 
 </label>
-<?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/components/input-label.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/components/input-label.blade.php ENDPATH**/ ?>
