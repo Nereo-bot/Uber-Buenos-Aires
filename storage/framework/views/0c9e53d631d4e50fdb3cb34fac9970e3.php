@@ -2,4 +2,4 @@
     <?php echo e($slot); ?>
 
 </button>
-<?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/components/primary-button.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/Leandro/Documents/Proyectos/php/uber/resources/views/components/primary-button.blade.php ENDPATH**/ ?>
