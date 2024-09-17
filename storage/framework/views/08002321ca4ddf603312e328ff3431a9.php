@@ -62,4 +62,4 @@
     </footer>
 </body>
 
-</html><?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/layouts/guest.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/layouts/guest.blade.php ENDPATH**/ ?>
