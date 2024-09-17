@@ -34,4 +34,4 @@ unset($__defined_vars); ?>
 
     </div>
 <?php endif; ?>
-<?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/components/auth-session-status.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/components/auth-session-status.blade.php ENDPATH**/ ?>
