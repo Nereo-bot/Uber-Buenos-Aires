@@ -35,4 +35,4 @@ unset($__defined_vars); ?>
         <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
     </ul>
 <?php endif; ?>
-<?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/components/input-error.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/components/input-error.blade.php ENDPATH**/ ?>
