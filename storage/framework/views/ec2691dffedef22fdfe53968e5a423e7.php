@@ -324,4 +324,4 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
     </footer>
 </body>
-</html><?php /**PATH /home/andrade/Documents/Proyectos/php/uber/resources/views/uber/quienes-somos2.blade.php ENDPATH**/ ?>
+</html><?php /**PATH /home/leandro/Documents/Proyectos/php/uber/resources/views/uber/quienes-somos2.blade.php ENDPATH**/ ?>
